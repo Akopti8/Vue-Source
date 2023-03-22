@@ -14,7 +14,7 @@
     </main>
     <div class="image-container">
       <img class="cartoon-image" src="../assets/powerpuff_girls.jpg" alt="Cartoon image">
-      <img class="cartoon-image" src="../assets/Random.jpg" alt="Cartoon image" style="visibility:hidden">
+
 
     </div>
   </div>

@@ -60,9 +60,6 @@
     return Data.find((item) => item.name.toLowerCase() === route.params.id);
   });
 
-  const getImagePath = (selectedItem) => {
-  return  selectedItem ? ref(selectedItem.image).value : '';
-};
   </script>
   
   <style>
